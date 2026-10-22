@@ -1,0 +1,18 @@
+font-family = CaskaydiaMono Nerd Font Mono
+font-family-bold = CaskaydiaMono Nerd Font Mono
+font-family-italic = CaskaydiaMono Nerd Font Mono
+font-family-bold-italic = CaskaydiaMono Nerd Font Mono
+
+font-style = Regular
+font-style-bold = SemiBold
+font-style-italic = Italic
+font-style-bold-italic = SemiBold Italic
+
+font-size = 12.0
+
+theme = Brogrammer
+
+cursor-style = block
+shell-integration-features = no-cursor
+
+fullscreen = true
